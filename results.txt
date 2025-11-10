@@ -1,0 +1,70 @@
+Downloading Genesis...
+  Hindi: 1533 verses
+  Arabic: 1533 verses
+  Hebrew: 1533 verses
+  Hungarian: 1533 verses
+  Chinese: 1533 verses
+  Latin: 1531 verses
+  Greek: 1533 verses
+  English: 1533 verses
+  German: 1533 verses
+  French: 1533 verses
+  Spanish: 1533 verses
+  Italian: 1533 verses
+  Russian: 1533 verses
+
+Aligned to 1531 verses across all languages.
+
+Parsing & extracting features...
+  > Hindi (hi)
+    vectors ready; mean dependency length = 3.745
+  > Arabic (ar)
+    vectors ready; mean dependency length = 3.582
+  > Hebrew (he)
+    vectors ready; mean dependency length = 3.060
+  > Hungarian (hu)
+    vectors ready; mean dependency length = 3.285
+  > Chinese (zh)
+    vectors ready; mean dependency length = 3.443
+  > Latin (la)
+    vectors ready; mean dependency length = 2.311
+  > Greek (grc)
+    vectors ready; mean dependency length = 3.607
+  > English (en)
+    vectors ready; mean dependency length = 3.742
+  > German (de)
+    vectors ready; mean dependency length = 3.489
+  > French (fr)
+    vectors ready; mean dependency length = 3.182
+  > Spanish (es)
+    vectors ready; mean dependency length = 2.896
+  > Italian (it)
+    vectors ready; mean dependency length = 2.989
+  > Russian (ru)
+    vectors ready; mean dependency length = 3.361
+
+Observed mean pairwise structural similarity: 0.7124
+Building null by permuting verses in: Hindi (199 permutations)...
+
+Permutation p-value (right-tailed): p = 0.0050
+
+=== REPORT ===
+Languages: Hindi, Arabic, Hebrew, Hungarian, Chinese, Latin, Greek, English, German, French, Spanish, Italian, Russian
+Verses aligned: 1531
+Mean pairwise structural similarity (obs): 0.7124
+Permutation p-value: 0.0050
+Mean dependency length by language:
+     Hindi: 3.745
+    Arabic: 3.582
+    Hebrew: 3.060
+  Hungarian: 3.285
+   Chinese: 3.443
+     Latin: 2.311
+     Greek: 3.607
+   English: 3.742
+    German: 3.489
+    French: 3.182
+   Spanish: 2.896
+   Italian: 2.989
+   Russian: 3.361
+DL variance p-value (left-tailed): 0.8950
